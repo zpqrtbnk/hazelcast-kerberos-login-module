@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../java-kerberos-utils/KerberosUtils/out/artifacts/KerberosUtils_jar/KerberosUtils.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/KerberosUtils.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
